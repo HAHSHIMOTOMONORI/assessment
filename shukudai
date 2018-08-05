@@ -1,0 +1,26 @@
+r4-2.c
+
+#include<stdio.h>
+
+ main(){
+    int a;
+    for(a=1;a<=60;a++){
+        if(a%4!=0){
+             if(a%5==0){
+                   printf("[%d]",a);
+                       }
+                  else{
+                   printf("%d,",a);
+                      }
+                       
+
+}
+}
+
+                      
+printf("\n");
+
+
+        }
+        
+        
